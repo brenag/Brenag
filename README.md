@@ -1,10 +1,5 @@
 ### Hello there! 👋
 
-<!--
-**Brenag/Brenag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Attitude Determination and Control of CubeSats.
 - 🌱 I’m currently learning MATLAB and Computer Organization and Design.
 - 👯 I’m looking to collaborate on space-related projects
